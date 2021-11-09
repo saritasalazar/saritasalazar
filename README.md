@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 💬 Ask me about **JavaScript, React, React Native, Elixir, Phoenix, GraphQL**
+- 💬 Ask me about **Elixir, Phoenix, GraphQL, NodeJs, MongoDB**
 
 - 📫 How to reach me **saraesalazar@icloud.com**
 
